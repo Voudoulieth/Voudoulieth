@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Voudou</h1>
 <h3 align="center">A french developer in the making</h3>
 
-- 🔭 I’m currently working on [my own website](https://lucianlaffont.fr)
+- 🔭 I’m currently working on my certificate DWWM with AFPA France
 
 - 🌱 I’m currently learning **JS and TypeScript **
 
