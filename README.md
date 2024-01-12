@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my own website](https://lucianlaffont.fr)
 
-- 🌱 I’m currently learning **JS, TypeScript and ReactJs.**
+- 🌱 I’m currently learning **JS and TypeScript **
 
 - 📫 You can contact me via my email at **lucianlaffont31@gmail.com**
 
